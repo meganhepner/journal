@@ -1,4 +1,4 @@
-import { } from './journal';
+import { Entry } from './journal';
 import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
